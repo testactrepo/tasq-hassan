@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Jigyanshu\\Desktop\\tasq-fixed\\build\\flutter_keyboard_visibility\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ne\\values-ne.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jigyanshu\\.gradle\\caches\\transforms-2\\files-2.1\\f78a549ca6b991b5aceec6747c94f808\\core-1.5.0-rc01\\res\\values-ne\\values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Jigyanshu\\Desktop\\tasq-fixed\\build\\flutter_keyboard_visibility\\intermediates\\res\\merged\\release\\values-ne\\values-ne.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jigyanshu\\.gradle\\caches\\transforms-2\\files-2.1\\f78a549ca6b991b5aceec6747c94f808\\core-1.5.0-rc01\\res\\values-ne\\values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

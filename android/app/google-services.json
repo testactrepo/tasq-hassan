@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "201040197761",
+    "project_id": "tasq-e8fc4",
+    "storage_bucket": "tasq-e8fc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201040197761:android:0525ec2a21ad0529b4b580",
+        "android_client_info": {
+          "package_name": "com.task.tasq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201040197761-b6hfptri4tpe2d3hd7qa3o7c4l1pd8sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.task.tasq",
+            "certificate_hash": "ba33010cc38337c4678bfb55fee4ee5e8631740a"
+          }
+        },
+        {
+          "client_id": "201040197761-kqt8uavmhklihfkpsibbu3spf2h39e9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.task.tasq",
+            "certificate_hash": "dc48b3b3e802357260a11306ae90d15642fcbb97"
+          }
+        },
+        {
+          "client_id": "201040197761-l8h9v2msj7cgvu69gtl9ea0fgqc63lhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.task.tasq",
+            "certificate_hash": "ae60712746c68a1b201c024a3b57b8d0423e5547"
+          }
+        },
+        {
+          "client_id": "201040197761-s1gkfaoa33vr7mn7r0c3im68gpe3pmle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.task.tasq",
+            "certificate_hash": "c3fb89c946d480481f453f09d8c1553d11e533cc"
+          }
+        },
+        {
+          "client_id": "201040197761-eh7keq9tf1hsngo2ek9d6tg2cu78f8a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoY5uITD9qXEhtIEkHggp5hioqDstPxgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201040197761-eh7keq9tf1hsngo2ek9d6tg2cu78f8a7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201040197761-0ovebmtf7aehb6fk10i0ag806vjpcb0j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.task.tasq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

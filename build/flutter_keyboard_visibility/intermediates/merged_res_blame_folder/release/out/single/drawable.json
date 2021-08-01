@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Jigyanshu\\Desktop\\tasq-fixed\\build\\flutter_keyboard_visibility\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Jigyanshu\\.gradle\\caches\\transforms-2\\files-2.1\\f78a549ca6b991b5aceec6747c94f808\\core-1.5.0-rc01\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jigyanshu\\Desktop\\tasq-fixed\\build\\flutter_keyboard_visibility\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Jigyanshu\\.gradle\\caches\\transforms-2\\files-2.1\\f78a549ca6b991b5aceec6747c94f808\\core-1.5.0-rc01\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jigyanshu\\Desktop\\tasq-fixed\\build\\flutter_keyboard_visibility\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Jigyanshu\\.gradle\\caches\\transforms-2\\files-2.1\\f78a549ca6b991b5aceec6747c94f808\\core-1.5.0-rc01\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jigyanshu\\Desktop\\tasq-fixed\\build\\flutter_keyboard_visibility\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Jigyanshu\\.gradle\\caches\\transforms-2\\files-2.1\\f78a549ca6b991b5aceec6747c94f808\\core-1.5.0-rc01\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

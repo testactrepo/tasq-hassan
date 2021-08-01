@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Jigyanshu\\Desktop\\tasq-fixed\\build\\flutter_keyboard_visibility\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Jigyanshu\\.gradle\\caches\\transforms-2\\files-2.1\\f78a549ca6b991b5aceec6747c94f808\\core-1.5.0-rc01\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jigyanshu\\Desktop\\tasq-fixed\\build\\flutter_keyboard_visibility\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Jigyanshu\\.gradle\\caches\\transforms-2\\files-2.1\\f78a549ca6b991b5aceec6747c94f808\\core-1.5.0-rc01\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jigyanshu\\Desktop\\tasq-fixed\\build\\flutter_keyboard_visibility\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Jigyanshu\\.gradle\\caches\\transforms-2\\files-2.1\\f78a549ca6b991b5aceec6747c94f808\\core-1.5.0-rc01\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jigyanshu\\Desktop\\tasq-fixed\\build\\flutter_keyboard_visibility\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Jigyanshu\\.gradle\\caches\\transforms-2\\files-2.1\\f78a549ca6b991b5aceec6747c94f808\\core-1.5.0-rc01\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Jigyanshu\\Desktop\\tasq-fixed\\build\\flutter_keyboard_visibility\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Jigyanshu\\.gradle\\caches\\transforms-2\\files-2.1\\f78a549ca6b991b5aceec6747c94f808\\core-1.5.0-rc01\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]

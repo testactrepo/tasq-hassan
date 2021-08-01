@@ -1,0 +1,1 @@
+enum TaskStatus { ALLOTED, NOTALLOTED, COMPLETE }
